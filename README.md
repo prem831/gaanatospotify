@@ -5,4 +5,4 @@ migrate songs from gaana to spotify
 2)Execute gaanamigrate.py
 
 
-ill add new features in future. its a basic script to copy playlist songs from Gaana to Spotify
+I'll add new features in future. its a basic script to copy playlist songs from Gaana to Spotify
