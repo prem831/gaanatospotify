@@ -3,7 +3,7 @@ import time
 
 #first open gaana playlist in one tab and spotify playlist in another tab
 #here i have used window handles wothout any check but if you use this implement for loop
-
+#mnsd
 driver = driver_setup.get_driver()
 handles = driver.window_handles
 driver.switch_to.window(handles[1])
