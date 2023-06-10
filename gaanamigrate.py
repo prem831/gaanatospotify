@@ -21,6 +21,8 @@ driver.switch_to.window(handles[0])
 
 print(driver.title)
 search_box = driver.find_element_by_xpath('//input[@role="searchbox"]')
+
+
 for i in range(72):
     search_box.clear()
     print(l1[i] + " " + l2[i])
